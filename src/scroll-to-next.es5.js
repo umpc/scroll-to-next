@@ -1,4 +1,4 @@
-/* ScrollToNext -- Author: Justin Lowery -- License: MIT */
+/* ScrollToNext -- Author: Justin Lowery -- License: MIT -- github.com/umpc/scroll-to-next */
 /**
  * ScrollToNext scrolls to the next instance of a DOM element tag or class.
  * @param {array} elements - A list of elements to scroll between.
