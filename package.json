@@ -1,0 +1,7 @@
+{
+  "name": "scroll-to-next",
+  "version": "0.0.1",
+  "description": "ScrollToNext scrolls to the next instance of a DOM element tag or class.",
+  "author": "Justin Lowery",
+  "license": "MIT"
+}
